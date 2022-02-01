@@ -1,2 +1,2 @@
 # Discord-bot
-Discord bot with really basic function
+Discord bot with some basic functions
